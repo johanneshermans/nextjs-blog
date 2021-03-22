@@ -1,0 +1,5 @@
+---
+title: 'NeXT, the begin of the future mac'
+date: '2020-01-01'
+---
+NeXT, Inc. (later NeXT Computer, Inc. and NeXT Software, Inc.) was an American computer and software company founded in 1985 by Apple Computer co-founder Steve Jobs. Based in Redwood City, California, the company developed and manufactured a series of computer workstations intended for the higher education and business markets. NeXT was founded by Jobs after he was forced out of Apple, along with several co-workers. NeXT introduced the first NeXT Computer in 1988, and the smaller NeXTstation in 1990. The NeXT computers experienced relatively limited sales, with estimates of about 50,000 units shipped in total. Nevertheless, their innovative object-oriented NeXTSTEP operating system and development environment (Interface Builder) were highly influential.
